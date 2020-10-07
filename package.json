@@ -1,5 +1,5 @@
 {
-  "name": "chart.js",
+  "name": "modify-chart.js",
   "homepage": "https://www.chartjs.org",
   "description": "Simple HTML5 charts using the canvas element.",
   "version": "2.9.3",
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chartjs/Chart.js.git"
+    "url": "https://github.com/Feduch/Chart.js"
   },
   "bugs": {
-    "url": "https://github.com/chartjs/Chart.js/issues"
+    "url": "https://github.com/Feduch/Chart.js/issues"
   },
   "files": [
     "bower.json",
